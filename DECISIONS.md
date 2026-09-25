@@ -25,3 +25,10 @@
 - Preserve the original layout and color placement. Replace the older bright coral with the later approved muted coral `#E86E50`, use approved light coral `#E98E70` for hover states, and use the approved muted primary-logo export.
 - Do not introduce a separate salmon background treatment.
 - Do not promote the preview to production without Dana's explicit selection.
+
+## 2026-09-25 — Contextual logo-color working direction
+
+- Preserve the KeepsiPuff logo's exact construction; color treatment may vary only between documented approved exports rather than ad hoc recoloring.
+- Use the brighter treatment as the current website/default-retail direction because it reads as more graphic, adult, and broadly appealing.
+- The muted treatment may remain an optional social/editorial presentation, including an existing muted Instagram avatar, where the softer appearance suits the surface. This is a working usage distinction, not a new controlling brand-master approval.
+- Keep both treatments recognizable through consistent logo geometry, teal/coral structure, cream context, and unchanged KeepsiPuff naming.

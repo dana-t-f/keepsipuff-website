@@ -1,8 +1,7 @@
 :root {
   --teal: #014647;
   --bright: #0b8485;
-  --coral: #e86e50;
-  --coral-light: #e98e70;
+  --coral: #f8563c;
   --cream: #f8e6c9;
   --pale: #d7eeee;
   --ink: #183b3c;
@@ -70,7 +69,7 @@ body {
   border-radius: 999px;
 }
 .site-header .nav-cta:hover {
-  background: var(--coral-light);
+  background: #ff7058;
   text-decoration: none;
 }
 .hero {
@@ -144,7 +143,7 @@ h3 {
   color: #fff;
 }
 .button-coral:hover {
-  background: var(--coral-light);
+  background: #ff7058;
 }
 .button-teal {
   background: var(--teal);
@@ -409,6 +408,14 @@ footer p {
 footer a {
   color: #fff;
 }
+.social-links {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.social-links a {
+  font-weight: 700;
+}
 @media (max-width: 760px) {
   .site-header {
     min-height: 80px;
@@ -471,5 +478,8 @@ footer a {
   }
   footer p {
     flex: auto;
+  }
+  .social-links {
+    gap: 0.75rem 1rem;
   }
 }
