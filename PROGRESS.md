@@ -10,3 +10,5 @@
 - Added the approved cover for *Unclenched & Offline*, a focused book-sales section, and direct Amazon purchase actions using ASIN `B0HKVKWVZ1`.
 - Removed public `puffy/puffies` wording and aligned the page with the current generic `puff/puffs` direction.
 - Refined the palette hierarchy so coral leads calls to action and product presentation while bright teal remains a supporting accent.
+- Replaced Porkbun's conflicting apex ALIAS with Vercel's two required A records while preserving the existing mail, verification, wildcard, and `color` subdomain records.
+- Verified through Vercel that `keepsipuff.com` is correctly configured and attached to the production project; HTTP traffic is already reaching the production deployment while the managed TLS certificate provisions.

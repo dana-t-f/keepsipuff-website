@@ -12,3 +12,9 @@
 - Use coral as the primary conversion and product color. Keep bright teal for smaller accents so the page stays lively without changing the KeepsiPuff visual center.
 - Public character language uses lowercase `puff/puffs`; `puffy/puffies` is removed from website copy and asset naming.
 - *Unclenched & Offline* is the first featured product and links directly to its verified Amazon ASIN, `B0HKVKWVZ1`.
+
+## 2026-09-25 — Custom-domain routing
+
+- Keep Porkbun as the authoritative DNS provider and point only the root website record to Vercel.
+- Use Vercel's recommended dual apex A records, `216.198.79.1` and `64.29.17.1`.
+- Preserve all unrelated Porkbun DNS records, including Google/MailerLite email records, verification records, wildcard routing, ACME challenges, and the `color.keepsipuff.com` ALIAS.
