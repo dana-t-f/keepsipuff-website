@@ -18,3 +18,9 @@
 - Keep Porkbun as the authoritative DNS provider and point only the root website record to Vercel.
 - Use Vercel's recommended dual apex A records, `216.198.79.1` and `64.29.17.1`.
 - Preserve all unrelated Porkbun DNS records, including Google/MailerLite email records, verification records, wildcard routing, ACME challenges, and the `color.keepsipuff.com` ALIAS.
+
+## 2026-09-25 — Muted-coral comparison
+
+- Keep the current bright-coral production design live while Dana reviews a separate preview.
+- Test muted coral only as atmosphere in larger visual fields. Retain bright coral for high-energy emphasis and purchase actions.
+- Do not promote the preview to production without Dana's explicit selection.

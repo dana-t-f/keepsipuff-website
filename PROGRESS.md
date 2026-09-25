@@ -12,3 +12,4 @@
 - Refined the palette hierarchy so coral leads calls to action and product presentation while bright teal remains a supporting accent.
 - Replaced Porkbun's conflicting apex ALIAS with Vercel's two required A records while preserving the existing mail, verification, wildcard, and `color` subdomain records.
 - Verified through Vercel that `keepsipuff.com` is correctly configured and attached to the production project, issued the managed certificate, and confirmed an HTTPS `200` response from the live production site.
+- Created and visually checked an isolated muted-coral preview. The book-section background, hero sunburst, and large decorative mark use the muted tone; purchase and navigation actions retain the brighter coral. Confirmed the production stylesheet was not changed.
