@@ -21,6 +21,7 @@
 
 ## 2026-09-25 — Muted-coral comparison
 
-- Keep the current bright-coral production design live while Dana reviews a separate preview.
-- Test muted coral only as atmosphere in larger visual fields. Retain bright coral for high-energy emphasis and purchase actions.
+- Keep the current production design live while Dana reviews a separate corrected preview.
+- Preserve the original layout and color placement. Replace the older bright coral with the later approved muted coral `#E86E50`, use approved light coral `#E98E70` for hover states, and use the approved muted primary-logo export.
+- Do not introduce a separate salmon background treatment.
 - Do not promote the preview to production without Dana's explicit selection.

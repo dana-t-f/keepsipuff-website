@@ -5,4 +5,4 @@
 - Domain: `keepsipuff.com` is attached and verified in Vercel. Porkbun now serves the two required apex A records: `216.198.79.1` and `64.29.17.1`.
 - Public custom-domain launch: https://keepsipuff.com is live over HTTPS with a Vercel-managed certificate.
 - 2026-09-25 revision: Coral is the primary action color, bright teal is a supporting accent, all public character wording uses `puff/puffs`, and the first book now has direct Amazon purchase links.
-- 2026-09-25 color study: A separate Vercel preview tests muted coral (`#d88a7b`) in broad visual areas while preserving bright coral for calls to action. Production remains unchanged pending Dana's comparison.
+- 2026-09-25 corrected color study: A separate Vercel preview replaces the older bright logo with the approved muted-logo export and changes the website coral token to the later approved `#E86E50`. The original layout and color placement are preserved. Production remains unchanged pending Dana's comparison.

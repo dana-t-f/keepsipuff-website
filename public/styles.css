@@ -1,8 +1,8 @@
 :root {
   --teal: #014647;
   --bright: #0b8485;
-  --coral: #f8563c;
-  --coral-muted: #d88a7b;
+  --coral: #e86e50;
+  --coral-light: #e98e70;
   --cream: #f8e6c9;
   --pale: #d7eeee;
   --ink: #183b3c;
@@ -70,7 +70,7 @@ body {
   border-radius: 999px;
 }
 .site-header .nav-cta:hover {
-  background: #ff7058;
+  background: var(--coral-light);
   text-decoration: none;
 }
 .hero {
@@ -144,7 +144,7 @@ h3 {
   color: #fff;
 }
 .button-coral:hover {
-  background: #ff7058;
+  background: var(--coral-light);
 }
 .button-teal {
   background: var(--teal);
@@ -180,7 +180,7 @@ h3 {
   right: -80px;
   background: repeating-conic-gradient(
     from 12deg,
-    var(--coral-muted) 0 12deg,
+    var(--coral) 0 12deg,
     transparent 12deg 24deg
   );
   border-radius: 50%;
@@ -217,8 +217,8 @@ h3 {
   margin: 0;
 }
 .shop {
-  background: var(--coral-muted);
-  color: var(--ink);
+  background: var(--coral);
+  color: #fff;
   display: grid;
   grid-template-columns: minmax(300px, 0.85fr) 1.15fr;
   gap: clamp(3rem, 7vw, 7rem);
@@ -257,7 +257,7 @@ h3 {
   max-width: 570px;
 }
 .book-copy .eyebrow {
-  color: var(--teal);
+  color: var(--cream);
 }
 .book-copy h2 {
   margin-bottom: 0.65rem;
@@ -281,7 +281,7 @@ h3 {
   padding: 0;
 }
 .book-details li {
-  border: 1px solid rgba(24, 59, 60, 0.55);
+  border: 1px solid rgba(255, 255, 255, 0.65);
   border-radius: 999px;
   padding: 0.45rem 0.8rem;
   font-size: 0.88rem;
@@ -361,7 +361,7 @@ h2 {
 }
 .about-mark {
   font-size: 8rem;
-  color: var(--coral-muted);
+  color: var(--coral);
   font-family: var(--display);
   line-height: 0.7;
   text-align: center;
