@@ -1,5 +1,7 @@
 # KeepsiPuff Website
 
-Static landing page for KeepsiPuff.com, prepared for GitHub and Vercel.
+Static landing page for KeepsiPuff.com, published through GitHub and Vercel.
 
-Status: `DANA_REVIEW` until the production domain is connected and verified.
+Status: `DANA_REVIEW` until the production domain DNS is connected and verified.
+
+The deployable static files live in `public/`.
