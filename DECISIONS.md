@@ -32,3 +32,8 @@
 - Use the brighter treatment as the current website/default-retail direction because it reads as more graphic, adult, and broadly appealing.
 - The muted treatment may remain an optional social/editorial presentation, including an existing muted Instagram avatar, where the softer appearance suits the surface. This is a working usage distinction, not a new controlling brand-master approval.
 - Keep both treatments recognizable through consistent logo geometry, teal/coral structure, cream context, and unchanged KeepsiPuff naming.
+
+## 2026-09-25 — Public contact path
+
+- Use the KeepsiPuff Instagram, TikTok, YouTube, and Pinterest profiles as the website's public follow/contact path.
+- Do not publish Dana's email address or expose a `mailto:` action on the KeepsiPuff website.
