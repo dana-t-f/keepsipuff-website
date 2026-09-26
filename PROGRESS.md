@@ -27,3 +27,4 @@
 - Verified the new sections, call-to-action, responsive mobile layout, social footer, and legal line in a private local browser preview.
 - Published the update through the connected GitHub-to-Vercel production path and verified `https://keepsipuff.com` returns HTTPS `200` with every requested element and no public email, `mailto:`, or legacy public naming.
 - Corrected the signup after Dana clarified that Flodesk delivers a free coloring sheet, not a Color Auditions page. Matched the live Flodesk disclosure and call-to-action, and replaced the color-swatch mockup with the approved `The Receipt Is Longer Than the Errand` coloring-sheet preview.
+- Published the correction and verified the live page, preview image, exact offer language, and absence of the obsolete Color Auditions wording at `https://keepsipuff.com`.
