@@ -57,3 +57,9 @@
 - Keep the Etsy placeholder unchanged until a verified listing URL is available.
 - Treat all September 26 website work as a local review candidate. Do not publish until Dana explicitly approves the desktop and phone previews.
 - Remove both hero teal squiggles because their placement behind the transparent mascot reads as image artifacts in the upper-left opening and lower-right coil. Do not alter the mascot artwork to solve this display issue.
+
+## 2026-09-26 — Publication approval
+
+- Dana's explicit `lets publish` instruction supersedes the local-review hold after she reviewed the corrected desktop and phone preview.
+- Publish the approved candidate through the existing GitHub `main` to Vercel production path without adding a Tally form or exposing an email address.
+- Keep a real Flodesk reply-path test as visible operational follow-up work. Publication does not claim that a reply was sent or received during this run.

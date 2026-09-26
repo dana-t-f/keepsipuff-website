@@ -44,3 +44,11 @@
 - Left `Coming soon on Etsy` unchanged because no live listing URL has been provided.
 - No commit, push, or Vercel deployment was made. The candidate awaits desktop/mobile approval and confirmation that replies to the delivery email reach a monitored inbox.
 - Removed both decorative teal squiggles from the private hero preview after they read as stray lines inside the transparent mascot's upper-left opening and lower-right coil. The mascot image itself was not damaged or redrawn.
+
+## 2026-09-26 — Production publication
+
+- Dana reviewed the desktop and phone candidates, requested removal of both misleading hero squiggles, and explicitly authorized publication.
+- Committed the approved website as `f70054c`, pushed `main` to GitHub, and allowed the connected Vercel Git integration to publish production.
+- Verified `https://keepsipuff.com/`, `privacy.html`, `robots.txt`, `sitemap.xml`, `og-image.jpg`, `apple-touch-icon.png`, and a bundled social icon all return HTTPS `200` with the expected content types.
+- Rechecked the live desktop and 390-by-844 phone layouts: no horizontal overflow, broken images, duplicate IDs, or hero squiggles; the privacy page exposes no email address and retains the reply-to request path.
+- The direct Flodesk reply-path test remains an operational follow-up because no recipient inbox was authorized for a test message during this publication run.
