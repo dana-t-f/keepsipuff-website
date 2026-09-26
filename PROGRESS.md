@@ -30,3 +30,4 @@
 - Published the correction and verified the live page, preview image, exact offer language, and absence of the obsolete Color Auditions wording at `https://keepsipuff.com`.
 - Added a cream secondary hero button, `Get a free coloring sheet`, linking to the on-page signup section while preserving the Amazon purchase and About paths.
 - Completed the footer copyright line as `© 2026 Symbol & Spark LLC.` using the existing dynamic year.
+- Published the hero/footer update through GitHub and Vercel, then verified the live button target, button styling, rendered 2026 copyright, and unchanged Etsy coming-soon state.
