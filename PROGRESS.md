@@ -52,3 +52,5 @@
 - Verified `https://keepsipuff.com/`, `privacy.html`, `robots.txt`, `sitemap.xml`, `og-image.jpg`, `apple-touch-icon.png`, and a bundled social icon all return HTTPS `200` with the expected content types.
 - Rechecked the live desktop and 390-by-844 phone layouts: no horizontal overflow, broken images, duplicate IDs, or hero squiggles; the privacy page exposes no email address and retains the reply-to request path.
 - The direct Flodesk reply-path test remains an operational follow-up because no recipient inbox was authorized for a test message during this publication run.
+
+- 2026-09-26: Added /color/ (puff loop page for the book QR codes), pointed the free-sheet button at the MailerLite form, updated privacy.html (Flodesk → MailerLite, no first name), added /color/ to sitemap.xml. MailerLite delivery sequence switched on first. Previews checked at 1400, 1024 and 375px (no horizontal overflow). Approved by Dana; published by push to main.

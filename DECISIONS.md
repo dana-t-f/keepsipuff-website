@@ -63,3 +63,12 @@
 - Dana's explicit `lets publish` instruction supersedes the local-review hold after she reviewed the corrected desktop and phone preview.
 - Publish the approved candidate through the existing GitHub `main` to Vercel production path without adding a Tally form or exposing an email address.
 - Keep a real Flodesk reply-path test as visible operational follow-up work. Publication does not claim that a reply was sent or received during this run.
+
+## 2026-09-26 — Signup moves to MailerLite; puff loop page for the book QR codes
+
+- Supersedes "Use the stable owned URL https://color.keepsipuff.com/ for the free printable coloring-sheet signup" (2026-09-25): the website's signup button links straight to the MailerLite KeepsiPuff form (https://preview.mailerlite.io/forms/2663201/199703476532414068/share, double opt-in). color.keepsipuff.com is kept as the owned book link and now forwards (302) to https://keepsipuff.com/color/.
+- New page /color/ ("the puff loop") is where the printed book's QR codes on pages 4 and 5 land: free coloring sheet + email updates, Instagram, art submissions (tag or DM @keepsipuff), and the button "Review Unclenched & Offline on Amazon" that page 4 promises.
+- Supersedes "The website offer must describe the actual Flodesk free coloring sheet": it describes the MailerLite free coloring sheet (same approved sheet, The Receipt Is Longer Than the Errand).
+- Privacy policy names MailerLite instead of Flodesk; the form collects email only (no first name). Signup note now reads "We never sell your email." (the privacy page lists the services that process it).
+- Reply-to check (2026-09-26 "Privacy contact" rule): MailerLite KeepsiPuff emails reply to hello@keepsipuff.com, which is received in Dana's monitored Gmail.
+- Dana approved the desktop and phone previews and the privacy wording on 2026-09-26.
