@@ -46,3 +46,5 @@
 - Use the exact website footer line `KeepsiPuff is a brand and registered trade name of Symbol & Spark LLC.` The separate publisher/imprint wording remains book-specific.
 - These decisions supersede the initial-launch references to public `Puff Breaks` wording and an email contact path.
 - The website offer must describe the actual Flodesk free coloring sheet and may not call it a Color Auditions page. Use the approved `The Receipt Is Longer Than the Errand` sheet as its preview.
+- Keep the Etsy printable-pack placeholder for now. Replace its coming-soon state with the verified listing link once live; if the listing will remain unavailable for an extended period, hide the section instead of leaving a stale promise.
+- Give the free coloring sheet equal hero-button visibility beside the first-book purchase path, while retaining the About text link.

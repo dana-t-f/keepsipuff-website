@@ -145,6 +145,13 @@ h3 {
 .button-coral:hover {
   background: #ff7058;
 }
+.button-cream {
+  background: var(--cream);
+  color: var(--teal);
+}
+.button-cream:hover {
+  background: var(--pale);
+}
 .button-teal {
   background: var(--teal);
   color: #fff;
