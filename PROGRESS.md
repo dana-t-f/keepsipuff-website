@@ -25,3 +25,4 @@
 - Added the footer disclosure: `KeepsiPuff is a brand and registered trade name of Symbol & Spark LLC.`
 - Preserved the bright coral/logo direction, all four social links, the Amazon book purchase links, and the no-public-email rule.
 - Verified the new sections, call-to-action, responsive mobile layout, social footer, and legal line in a private local browser preview.
+- Published the update through the connected GitHub-to-Vercel production path and verified `https://keepsipuff.com` returns HTTPS `200` with every requested element and no public email, `mailto:`, or legacy public naming.
