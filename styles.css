@@ -286,6 +286,61 @@ h3 {
   font-size: 0.88rem;
   font-weight: 700;
 }
+.freebie {
+  background: #fff;
+  display: grid;
+  grid-template-columns: 0.65fr 1.35fr;
+  gap: clamp(2.5rem, 7vw, 6rem);
+  align-items: center;
+  padding: 6.5rem max(1.5rem, calc((100vw - 1040px) / 2));
+}
+.freebie-art {
+  display: flex;
+  justify-content: center;
+}
+.audition-sheet {
+  width: min(265px, 72vw);
+  aspect-ratio: 4 / 5;
+  background: #fffaf0;
+  border: 2px solid #e7cb9b;
+  border-radius: 22px;
+  padding: 3.5rem 1.8rem 1.8rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  box-shadow: 16px 18px 0 var(--pale);
+  transform: rotate(-3deg);
+}
+.audition-sheet span {
+  border: 3px solid var(--teal);
+  border-radius: 46% 54% 58% 42%;
+}
+.audition-sheet span:nth-child(1) {
+  background: var(--coral);
+}
+.audition-sheet span:nth-child(2) {
+  background: var(--bright);
+}
+.audition-sheet span:nth-child(3) {
+  background: #e7cb9b;
+}
+.audition-sheet span:nth-child(4) {
+  background: var(--pale);
+}
+.freebie-copy {
+  max-width: 650px;
+}
+.freebie-copy .eyebrow {
+  color: var(--bright);
+}
+.freebie-copy > p:last-of-type {
+  font-size: 1.08rem;
+  line-height: 1.7;
+  max-width: 570px;
+}
+.freebie-copy .button {
+  margin-top: 0.75rem;
+}
 .breaks {
   padding: 7rem max(1.5rem, calc((100vw - 1120px) / 2));
   background: var(--cream);
@@ -347,6 +402,36 @@ h2 {
   background: var(--bright);
   color: #fff;
 }
+.printable-pack {
+  background: var(--teal);
+  color: #fff;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 3rem;
+  align-items: center;
+  padding: 5.5rem max(1.5rem, calc((100vw - 1040px) / 2));
+}
+.printable-pack > div {
+  max-width: 700px;
+}
+.printable-pack .eyebrow {
+  color: #a8dcdc;
+}
+.printable-pack h2 {
+  font-size: clamp(2.5rem, 4.5vw, 4rem);
+}
+.printable-pack div > p:last-child {
+  font-size: 1.08rem;
+  line-height: 1.7;
+}
+.coming-soon {
+  border: 2px solid var(--coral);
+  border-radius: 999px;
+  color: #fff;
+  font-weight: 800;
+  padding: 0.75rem 1.1rem;
+  white-space: nowrap;
+}
 .about {
   background: #fff;
   display: grid;
@@ -405,6 +490,13 @@ footer p {
   margin: 0;
   flex: 1;
 }
+.footer-legal span {
+  display: inline-block;
+  font-size: 0.82rem;
+  line-height: 1.45;
+  margin-top: 0.35rem;
+  max-width: 430px;
+}
 footer a {
   color: #fff;
 }
@@ -447,6 +539,13 @@ footer a {
     grid-template-columns: 1fr;
     padding: 5rem 1.5rem;
   }
+  .freebie {
+    grid-template-columns: 1fr;
+    padding: 4.5rem 1.5rem;
+  }
+  .audition-sheet {
+    width: min(235px, 68vw);
+  }
   .book-stage img {
     width: min(280px, 75vw);
   }
@@ -459,6 +558,14 @@ footer a {
   }
   .break-card {
     min-height: 215px;
+  }
+  .printable-pack {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    padding: 4.5rem 1.5rem;
+  }
+  .coming-soon {
+    width: fit-content;
   }
   .about {
     grid-template-columns: 1fr;

@@ -16,3 +16,12 @@
 - After side-by-side review, restored the bright coral and original logo treatment on the private preview. Added the user-confirmed `@keepsipuff` profile links for Instagram, TikTok, YouTube, and Pinterest and checked the resulting footer layout. The production site remains unchanged.
 - Dana authorized the social footer for the published website and requested removal of her email address to avoid unsolicited website email. Removed the visible address and the About-section `mailto:` action; the About action now leads to the social profiles.
 - Published the update to `keepsipuff.com` and verified HTTPS `200`, all four social destinations, the social-profile accessibility label, and the absence of Dana's email address, `mailto:` actions, and legacy `puffy/puffies` wording.
+
+## 2026-09-25 — Signup, series name, Etsy placeholder, and legal line
+
+- Added a dedicated free Color Auditions signup section linking through the stable owned URL `https://color.keepsipuff.com/`, which forwards to the existing Flodesk form.
+- Replaced the public-facing `Puff Breaks` label with the approved series name `Meanwhile, Color This` and updated the section anchor accordingly.
+- Added an intentionally non-clickable printable-pack space that says the Etsy download is coming soon, without implying that the not-yet-live listing is available for purchase.
+- Added the footer disclosure: `KeepsiPuff is a brand and registered trade name of Symbol & Spark LLC.`
+- Preserved the bright coral/logo direction, all four social links, the Amazon book purchase links, and the no-public-email rule.
+- Verified the new sections, call-to-action, responsive mobile layout, social footer, and legal line in a private local browser preview.

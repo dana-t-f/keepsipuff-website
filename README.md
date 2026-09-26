@@ -2,6 +2,8 @@
 
 Static landing page for KeepsiPuff.com, published through GitHub and Vercel.
 
-Status: `DANA_REVIEW` until the production domain DNS is connected and verified.
+Status: live at [keepsipuff.com](https://keepsipuff.com) with the production domain connected and verified.
 
 The deployable static files live in `public/`.
+
+Current public paths include the Amazon book purchase, the free Color Auditions signup at `color.keepsipuff.com`, the four `@keepsipuff` social profiles, and a non-purchasable Etsy printable-pack placeholder pending the live listing.

@@ -37,3 +37,11 @@
 
 - Use the KeepsiPuff Instagram, TikTok, YouTube, and Pinterest profiles as the website's public follow/contact path.
 - Do not publish Dana's email address or expose a `mailto:` action on the KeepsiPuff website.
+
+## 2026-09-25 — Public series, signup, and future printable pack
+
+- `Meanwhile, Color This` supersedes `Puff Breaks` as the public-facing series name on the website; `Puff Breaks` remains an internal working name only.
+- Use the stable owned URL `https://color.keepsipuff.com/` for the free Color Auditions signup so the website does not depend on a changeable Flodesk destination URL.
+- Reserve a visible printable-pack section now, but keep it non-clickable and label it `Coming soon on Etsy` until the listing is confirmed live.
+- Use the exact website footer line `KeepsiPuff is a brand and registered trade name of Symbol & Spark LLC.` The separate publisher/imprint wording remains book-specific.
+- These decisions supersede the initial-launch references to public `Puff Breaks` wording and an email contact path.
