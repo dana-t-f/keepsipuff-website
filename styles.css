@@ -298,34 +298,14 @@ h3 {
   display: flex;
   justify-content: center;
 }
-.audition-sheet {
+.free-coloring-sheet {
   width: min(265px, 72vw);
-  aspect-ratio: 4 / 5;
   background: #fffaf0;
   border: 2px solid #e7cb9b;
   border-radius: 22px;
-  padding: 3.5rem 1.8rem 1.8rem;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 1rem;
   box-shadow: 16px 18px 0 var(--pale);
+  display: block;
   transform: rotate(-3deg);
-}
-.audition-sheet span {
-  border: 3px solid var(--teal);
-  border-radius: 46% 54% 58% 42%;
-}
-.audition-sheet span:nth-child(1) {
-  background: var(--coral);
-}
-.audition-sheet span:nth-child(2) {
-  background: var(--bright);
-}
-.audition-sheet span:nth-child(3) {
-  background: #e7cb9b;
-}
-.audition-sheet span:nth-child(4) {
-  background: var(--pale);
 }
 .freebie-copy {
   max-width: 650px;
@@ -543,7 +523,7 @@ footer a {
     grid-template-columns: 1fr;
     padding: 4.5rem 1.5rem;
   }
-  .audition-sheet {
+  .free-coloring-sheet {
     width: min(235px, 68vw);
   }
   .book-stage img {

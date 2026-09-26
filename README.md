@@ -6,4 +6,4 @@ Status: live at [keepsipuff.com](https://keepsipuff.com) with the production dom
 
 The deployable static files live in `public/`.
 
-Current public paths include the Amazon book purchase, the free Color Auditions signup at `color.keepsipuff.com`, the four `@keepsipuff` social profiles, and a non-purchasable Etsy printable-pack placeholder pending the live listing.
+Current public paths include the Amazon book purchase, the free printable coloring-sheet signup at `color.keepsipuff.com`, the four `@keepsipuff` social profiles, and a non-purchasable Etsy printable-pack placeholder pending the live listing.

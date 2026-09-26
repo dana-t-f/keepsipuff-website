@@ -19,10 +19,11 @@
 
 ## 2026-09-25 — Signup, series name, Etsy placeholder, and legal line
 
-- Added a dedicated free Color Auditions signup section linking through the stable owned URL `https://color.keepsipuff.com/`, which forwards to the existing Flodesk form.
+- Added a dedicated free signup section linking through the stable owned URL `https://color.keepsipuff.com/`, which forwards to the existing Flodesk form.
 - Replaced the public-facing `Puff Breaks` label with the approved series name `Meanwhile, Color This` and updated the section anchor accordingly.
 - Added an intentionally non-clickable printable-pack space that says the Etsy download is coming soon, without implying that the not-yet-live listing is available for purchase.
 - Added the footer disclosure: `KeepsiPuff is a brand and registered trade name of Symbol & Spark LLC.`
 - Preserved the bright coral/logo direction, all four social links, the Amazon book purchase links, and the no-public-email rule.
 - Verified the new sections, call-to-action, responsive mobile layout, social footer, and legal line in a private local browser preview.
 - Published the update through the connected GitHub-to-Vercel production path and verified `https://keepsipuff.com` returns HTTPS `200` with every requested element and no public email, `mailto:`, or legacy public naming.
+- Corrected the signup after Dana clarified that Flodesk delivers a free coloring sheet, not a Color Auditions page. Matched the live Flodesk disclosure and call-to-action, and replaced the color-swatch mockup with the approved `The Receipt Is Longer Than the Errand` coloring-sheet preview.
