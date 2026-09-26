@@ -48,3 +48,12 @@
 - The website offer must describe the actual Flodesk free coloring sheet and may not call it a Color Auditions page. Use the approved `The Receipt Is Longer Than the Errand` sheet as its preview.
 - Keep the Etsy printable-pack placeholder for now. Replace its coming-soon state with the verified listing link once live; if the listing will remain unavailable for an extended period, hide the section instead of leaving a stale promise.
 - Give the free coloring sheet equal hero-button visibility beside the first-book purchase path, while retaining the About text link.
+
+## 2026-09-26 — Privacy contact and review gate
+
+- Do not add a Tally form or publish a contact email address. People who receive a KeepsiPuff email may reply to it to request access, correction, or deletion of their information.
+- Verify the Flodesk delivery email's reply-to path reaches a monitored inbox before publishing the privacy policy. This operational check is required even though the receiving address will not appear on the website.
+- Keep `Meanwhile, Color This` on the public series section and use `Free coloring sheet` for the adjacent signup eyebrow so the two sections do not repeat the same label.
+- Keep the Etsy placeholder unchanged until a verified listing URL is available.
+- Treat all September 26 website work as a local review candidate. Do not publish until Dana explicitly approves the desktop and phone previews.
+- Remove both hero teal squiggles because their placement behind the transparent mascot reads as image artifacts in the upper-left opening and lower-right coil. Do not alter the mascot artwork to solve this display issue.

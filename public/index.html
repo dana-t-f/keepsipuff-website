@@ -3,10 +3,18 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light only" />
     <meta name="description" content="KeepsiPuff makes small, funny places to pause, color, and keep going." />
     <meta name="theme-color" content="#014647" />
+    <meta property="og:title" content="KeepsiPuff — Little breaks for big feelings" />
+    <meta property="og:description" content="Funny, gentle coloring books and small bright things for busy-brain days." />
+    <meta property="og:image" content="https://keepsipuff.com/og-image.jpg" />
+    <meta property="og:url" content="https://keepsipuff.com/" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
     <title>KeepsiPuff — Little breaks for big feelings</title>
     <link rel="icon" type="image/png" href="favicon.png" />
+    <link rel="apple-touch-icon" href="apple-touch-icon.png" />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
@@ -36,8 +44,6 @@
         </div>
         <div class="hero-art" aria-hidden="true">
           <div class="sunburst"></div>
-          <div class="squiggle squiggle-one"></div>
-          <div class="squiggle squiggle-two"></div>
           <img src="keepsipuff-mascot.png" alt="" />
           <p class="art-note">No productivity required.</p>
         </div>
@@ -67,10 +73,11 @@
           <img class="free-coloring-sheet" src="free-coloring-sheet.png" alt="Preview of The Receipt Is Longer Than the Errand free coloring sheet" />
         </div>
         <div class="freebie-copy">
-          <p class="eyebrow">Meanwhile, Color This</p>
+          <p class="eyebrow">Free coloring sheet</p>
           <h2 id="freebie-heading">Get a free printable coloring sheet.</h2>
           <p>Subscribe for occasional KeepsiPuff emails about new coloring books and product releases. Confirm your email to receive your free coloring sheet. Unsubscribe anytime.</p>
           <a class="button button-coral" href="https://color.keepsipuff.com/" target="_blank" rel="noopener noreferrer">Send me the free coloring sheet <span aria-hidden="true">→</span></a>
+          <p class="signup-privacy">We never sell or share your email. <a href="privacy.html">Privacy policy</a></p>
         </div>
       </section>
 
@@ -128,12 +135,15 @@
     <footer>
       <img src="keepsipuff-logo.png" alt="KeepsiPuff" />
       <p class="footer-legal">© <span id="year"></span> Symbol &amp; Spark LLC.<br /><span>KeepsiPuff is a brand and registered trade name of Symbol &amp; Spark LLC.</span></p>
-      <nav class="social-links" id="social" aria-label="KeepsiPuff social profiles">
-        <a href="https://www.instagram.com/keepsipuff/" target="_blank" rel="noopener noreferrer">Instagram</a>
-        <a href="https://www.tiktok.com/@keepsipuff" target="_blank" rel="noopener noreferrer">TikTok</a>
-        <a href="https://www.youtube.com/@keepsipuff" target="_blank" rel="noopener noreferrer">YouTube</a>
-        <a href="https://www.pinterest.com/keepsipuff/" target="_blank" rel="noopener noreferrer">Pinterest</a>
-      </nav>
+      <div class="footer-actions">
+        <a class="privacy-link" href="privacy.html">Privacy policy</a>
+        <nav class="social-links" id="social" aria-label="KeepsiPuff social profiles">
+          <a href="https://www.instagram.com/keepsipuff/" target="_blank" rel="noopener noreferrer" aria-label="KeepsiPuff on Instagram"><img src="icons/instagram.svg" alt="" /></a>
+          <a href="https://www.tiktok.com/@keepsipuff" target="_blank" rel="noopener noreferrer" aria-label="KeepsiPuff on TikTok"><img src="icons/tiktok.svg" alt="" /></a>
+          <a href="https://www.youtube.com/@keepsipuff" target="_blank" rel="noopener noreferrer" aria-label="KeepsiPuff on YouTube"><img src="icons/youtube.svg" alt="" /></a>
+          <a href="https://www.pinterest.com/keepsipuff/" target="_blank" rel="noopener noreferrer" aria-label="KeepsiPuff on Pinterest"><img src="icons/pinterest.svg" alt="" /></a>
+        </nav>
+      </div>
     </footer>
     <script>document.getElementById('year').textContent = new Date().getFullYear()</script>
   </body>

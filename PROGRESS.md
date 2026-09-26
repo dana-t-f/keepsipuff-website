@@ -31,3 +31,16 @@
 - Added a cream secondary hero button, `Get a free coloring sheet`, linking to the on-page signup section while preserving the Amazon purchase and About paths.
 - Completed the footer copyright line as `© 2026 Symbol & Spark LLC.` using the existing dynamic year.
 - Published the hero/footer update through GitHub and Vercel, then verified the live button target, button styling, rendered 2026 copyright, and unchanged Etsy coming-soon state.
+
+## 2026-09-26 — Unpublished privacy, performance, and sharing preview
+
+- Added a local `privacy.html` candidate using the existing KeepsiPuff header, footer, type, colors, and layout system.
+- Kept all email addresses off the site. Privacy access, correction, and deletion requests are directed to replies to a received KeepsiPuff email and promise a response within 30 days.
+- Replaced footer social text with bundled Simple Icons in accessible 44-pixel round buttons; no third-party icon request is made by the page.
+- Added light-only color-scheme declarations to prevent browser dark-mode recoloring.
+- Optimized the logo, book cover, mascot, and free-sheet preview while retaining their filenames; the four files now total about 1.5 MB rather than about 6.7 MB.
+- Added the 1200-by-630 social share image and Open Graph/Twitter metadata, a 180-by-180 iPhone home-screen icon, `robots.txt`, and `sitemap.xml`.
+- Changed only the repeated free-sheet eyebrow from `Meanwhile, Color This` to `Free coloring sheet`; the public series section retains `Meanwhile, Color This`.
+- Left `Coming soon on Etsy` unchanged because no live listing URL has been provided.
+- No commit, push, or Vercel deployment was made. The candidate awaits desktop/mobile approval and confirmation that replies to the delivery email reach a monitored inbox.
+- Removed both decorative teal squiggles from the private hero preview after they read as stray lines inside the transparent mascot's upper-left opening and lower-right coil. The mascot image itself was not damaged or redrawn.
