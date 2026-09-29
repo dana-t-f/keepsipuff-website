@@ -1,0 +1,25 @@
+{
+  "outputDirectory": "public",
+  "redirects": [
+    {
+      "source": "/book",
+      "destination": "https://www.amazon.com/dp/B0HKVKWVZ1",
+      "permanent": false
+    },
+    {
+      "source": "/book/",
+      "destination": "https://www.amazon.com/dp/B0HKVKWVZ1",
+      "permanent": false
+    },
+    {
+      "source": "/free",
+      "destination": "https://preview.mailerlite.io/forms/2663201/199703476532414068/share",
+      "permanent": false
+    },
+    {
+      "source": "/free/",
+      "destination": "https://preview.mailerlite.io/forms/2663201/199703476532414068/share",
+      "permanent": false
+    }
+  ]
+}
