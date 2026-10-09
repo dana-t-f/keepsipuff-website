@@ -72,3 +72,8 @@
 - Privacy policy names MailerLite instead of Flodesk; the form collects email only (no first name). Signup note now reads "We never sell your email." (the privacy page lists the services that process it).
 - Reply-to check (2026-09-26 "Privacy contact" rule): MailerLite KeepsiPuff emails reply to hello@keepsipuff.com, which is received in Dana's monitored Gmail.
 - Dana approved the desktop and phone previews and the privacy wording on 2026-09-26.
+
+
+## October 9, 2026 — book description alignment
+
+Updated only the Unclenched & Offline book section using the approved October 4 Amazon title/series and v09 back-cover language, plus Dana’s explicit request for de-stressing, overthinking and feeling overwhelmed. Retained the official title/subtitle, accurate book features and Amazon link. Source copies updated together. Desktop (1280px) and phone (390px) visual checks passed without horizontal overflow or broken images. SSA-168 / RUN-739. Production publication follows the existing GitHub/Vercel connection.

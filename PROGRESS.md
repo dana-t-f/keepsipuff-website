@@ -54,3 +54,8 @@
 - The direct Flodesk reply-path test remains an operational follow-up because no recipient inbox was authorized for a test message during this publication run.
 
 - 2026-09-26: Added /color/ (puff loop page for the book QR codes), pointed the free-sheet button at the MailerLite form, updated privacy.html (Flodesk → MailerLite, no first name), added /color/ to sitemap.xml. MailerLite delivery sequence switched on first. Previews checked at 1400, 1024 and 375px (no horizontal overflow). Approved by Dana; published by push to main.
+
+
+## October 9, 2026 — book description alignment
+
+Updated only the Unclenched & Offline book section using the approved October 4 Amazon title/series and v09 back-cover language, plus Dana’s explicit request for de-stressing, overthinking and feeling overwhelmed. Retained the official title/subtitle, accurate book features and Amazon link. Source copies updated together. Desktop (1280px) and phone (390px) visual checks passed without horizontal overflow or broken images. SSA-168 / RUN-739. Production publication follows the existing GitHub/Vercel connection.

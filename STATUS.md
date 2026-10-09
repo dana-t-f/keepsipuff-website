@@ -13,3 +13,8 @@
 - 2026-09-26 production update complete after Dana's explicit approval: GitHub commit `f70054c` deployed through the connected Vercel project. The custom domain, privacy page, search files, sharing assets, home-screen icon, and social icons all returned HTTPS `200`; desktop and 390-by-844 phone rendering passed with no overflow, broken images, duplicate IDs, or hero squiggles. The site contains no public email address. A direct reply-path test remains an operational follow-up; Flodesk's documented default routes replies to the configured sender address.
 
 - 2026-09-26: MailerLite signup + /color/ page pushed to main; color.keepsipuff.com forward → https://keepsipuff.com/color/ (Porkbun) and live verification follow.
+
+
+## October 9, 2026 — book description alignment
+
+Updated only the Unclenched & Offline book section using the approved October 4 Amazon title/series and v09 back-cover language, plus Dana’s explicit request for de-stressing, overthinking and feeling overwhelmed. Retained the official title/subtitle, accurate book features and Amazon link. Source copies updated together. Desktop (1280px) and phone (390px) visual checks passed without horizontal overflow or broken images. SSA-168 / RUN-739. Production publication follows the existing GitHub/Vercel connection.
