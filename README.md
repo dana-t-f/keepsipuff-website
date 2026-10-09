@@ -17,3 +17,5 @@ Updated only the Unclenched & Offline book section using the approved October 4 
 
 
 October 9 follow-up: Dana rejected “take a quick coloring break” and explicitly approved the exact desk/break-room paragraph with overthinking, markers, everyday waiting, and “A small reset for a busy brain.” Replaced that paragraph verbatim in both sources; this supersedes the previous opening. SSA-168 / RUN-739 resumed for correction.
+
+October 9 second follow-up: Dana approved removing the repeated benefits after the desk/break-room paragraph. Replaced with the concise artwork sentence and Meanwhile, Color This series attribution; removed duplicate lines-already-drawn sentence. SSA-168/RUN-739.
